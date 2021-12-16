@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasz-gryzbon&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasz-gryzbon&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on the Living Sequence Diagrams (LSD)
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on a new project - a Gradle plugin for automated generating of Wiremock stubs based from the Spring @RestController
+
 
 <!--
 **lukasz-gryzbon/lukasz-gryzbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
