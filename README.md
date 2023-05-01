@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasz-gryzbon&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on the Living Sequence Diagrams (LSD)
+- 🔭 I’m currently working on the Living Sequence Diagrams (LSD) and the @GenerateWireMockStub library
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on a new project - a Gradle plugin for automated generating of Wiremock stubs from Spring `@RestController`s
 
