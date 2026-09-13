@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasz-gryzbon&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on the Living Sequence Diagrams (LSD) and the @GenerateWireMockStub library
 - 🌱 I’m currently learning Kotlin
 
